@@ -1,20 +1,16 @@
-# readback
+# kitshelf
 
 You have a document you don't understand, and a decision to make before you can afford a lawyer, an advocate, or a second opinion.
 
-That's where readback starts. It's a family of free, open-source kits that turn any AI chat into a careful reader: paste the lease, the bill, the estimate, the denial letter, the lab panel, the scam-shaped email — and the kit reads it back to you. Every claim quoted from the document. Every gap marked `[CONFIRM]`. No scores, no verdicts, no invented numbers.
+That's where these kits start. kitshelf is a shelf of free, open-source tools that turn any AI chat into a careful reader: paste the lease, the bill, the estimate, the denial letter, the lab panel, the scam-shaped email — and the kit reads it back to you. Every claim quoted from the document. Every gap marked `[CONFIRM]`. No scores, no verdicts, no invented numbers.
 
 No code to install. No account. No telemetry. You keep every file, forever.
 
 [![100% Markdown](https://img.shields.io/badge/100%25_Markdown-2ea44f)](#what-every-kit-is) [![Privacy](https://img.shields.io/badge/Privacy-local_only,_no_telemetry-8b5cf6)](#what-every-kit-is) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](#license)
 
-## The name
-
-"Readback" is the protocol where you repeat a message back until it's verified. That's the whole method: quote it, source it, label it, and refuse to fill the holes with plausible fiction. Every kit in this organization runs the same discipline.
-
 ## The shelf
 
-Two kinds of kits, one mechanic.
+Three kinds of kits, one mechanic.
 
 **Read what they sent you** — decode the documents the world hands you:
 
@@ -49,7 +45,7 @@ Two kinds of kits, one mechanic.
 - **Tested like software.** Fixture corpora with planted defects and expected detections. A prompt system without fixtures is a guess.
 - **A charter with a "what this is not."** Every kit states what it refuses to do, on page one.
 
-## What readback will never do
+## What these kits will never do
 
 Invent a number. Give a verdict you can't check. Upload your documents. Ask for an account. Tell you something is "definitely" anything.
 
