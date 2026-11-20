@@ -10,31 +10,25 @@ No code to install. No account. No telemetry. You keep every file, forever.
 
 ## The shelf
 
-Three kinds of kits, one mechanic.
+Three kinds of kits, one mechanic — *read what they sent you* (decode the documents the world hands you), *read back what your life holds* (organize your own words, without a ghostwriter), *read what you wrote* (audit your own drafts for honesty).
 
-**Read what they sent you** — decode the documents the world hands you:
-
-- **ScamCheck** — the job offer, rental listing, or "bank" text, *before you reply*. *(first kit, in development)*
-- **LeaseLens** — your lease, before you sign
-- **BillFight** — the hospital bill, before you pay
-- **DenialAppeal** — the insurance denial, before the deadline
-- **ClosingDecode** — your closing numbers, before the table
-- **MechanicLens** — the repair estimate, before you approve
-- **DepositBack** — the itemized deductions, before you give up
-- **SubSweep** — your bank statement, before next month
-- **LabsPlain** — the lab panel, in plain English
-- **IEPAlly** — your child's IEP, before the meeting
-
-**Read back what your life holds** — organize your own words, without a ghostwriter:
-
-- **VisitPrep** — the doctor's visit, prepared
-- **TomorrowBinder** — the binder your family needs and nobody has
-- **MemoryBook** — your parents' stories, in their words
-- **Tribute** — the eulogy, written from real memories
-
-**Read what you wrote** — audit your own drafts for honesty:
-
-- **GrantTruth** — the grant or scholarship application, before you sign your name to it
+| # | Kit | What it reads back to you | Status |
+|---|---|---|---|
+| 1 | [**ScamCheck**](https://github.com/kitshelf/scamcheck) | the job offer, rental listing, or "bank" text — before you reply | **in development** |
+| 2 | **LeaseLens** | your lease, before you sign | planned |
+| 3 | **BillFight** | the hospital bill, before you pay | planned |
+| 4 | **DenialAppeal** | the insurance denial, before the deadline | planned |
+| 5 | **ClosingDecode** | your closing numbers, before the table | planned |
+| 6 | **MechanicLens** | the repair estimate, before you approve | planned |
+| 7 | **DepositBack** | the itemized deductions, before you give up | planned |
+| 8 | **SubSweep** | your bank statement, before next month | planned |
+| 9 | **LabsPlain** | the lab panel, in plain English | planned |
+| 10 | **IEPAlly** | your child's IEP, before the meeting | planned |
+| 11 | **VisitPrep** | the doctor's visit, prepared | planned |
+| 12 | **TomorrowBinder** | the binder your family needs and nobody has | planned |
+| 13 | **MemoryBook** | your parents' stories, in their words | planned |
+| 14 | **Tribute** | the eulogy, written from real memories | planned |
+| 15 | **GrantTruth** | the grant or scholarship application, before you sign your name to it | planned |
 
 ## What every kit is
 
@@ -55,7 +49,7 @@ The method comes from [career-kit](https://github.com/deghosal-2026/career-kit),
 
 ## Status
 
-This organization is new. Kits ship in build order, each with its charter, its fixtures, and a build journal. First up: **ScamCheck**.
+This organization is new. Kits ship in build order, each with its charter, its fixtures, and a build journal. First up: [**ScamCheck**](https://github.com/kitshelf/scamcheck).
 
 ## License
 
