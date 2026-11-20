@@ -14,7 +14,7 @@ Three kinds of kits, one mechanic — *read what they sent you* (decode the docu
 
 | # | Kit | What it reads back to you | Status |
 |---|---|---|---|
-| 1 | [**ScamCheck**](https://github.com/kitshelf/scamcheck) | the job offer, rental listing, or "bank" text — before you reply | **in development** |
+| 1 | [**ScamCheck**](https://github.com/kitshelf/scamcheck) | the job offer, rental listing, or "bank" text — before you reply | **v0.1.0 released** |
 | 2 | **LeaseLens** | your lease, before you sign | planned |
 | 3 | **BillFight** | the hospital bill, before you pay | planned |
 | 4 | **DenialAppeal** | the insurance denial, before the deadline | planned |
@@ -49,7 +49,7 @@ The method comes from [career-kit](https://github.com/deghosal-2026/career-kit),
 
 ## Status
 
-This organization is new. Kits ship in build order, each with its charter, its fixtures, and a build journal. First up: [**ScamCheck**](https://github.com/kitshelf/scamcheck).
+Kits ship in build order, each with its charter, its fixtures, and a build journal. Shipped: [**ScamCheck v0.1.0**](https://github.com/kitshelf/scamcheck) — the jobs family end to end, its 20-fixture gauntlet recorded on four models, adversarial release gate passed. Next inside it: the rentals, banking, and marketplace families in v0.2.0, romance in v0.3.0. After that, the next kit on the shelf.
 
 ## License
 
