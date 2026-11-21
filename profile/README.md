@@ -15,20 +15,27 @@ Three kinds of kits, one mechanic — *read what they sent you* (decode the docu
 | # | Kit | What it reads back to you | Status |
 |---|---|---|---|
 | 1 | [**ScamCheck**](https://github.com/kitshelf/scamcheck) | the job offer, rental listing, or "bank" text — before you reply | **v0.1.0 released** |
-| 2 | **LeaseLens** | your lease, before you sign | planned |
-| 3 | **BillFight** | the hospital bill, before you pay | planned |
-| 4 | **DenialAppeal** | the insurance denial, before the deadline | planned |
-| 5 | **ClosingDecode** | your closing numbers, before the table | planned |
-| 6 | **MechanicLens** | the repair estimate, before you approve | planned |
+| 2 | [**MechanicLens**](https://github.com/kitshelf/mechaniclens) | the repair estimate, before you approve the work | **in development** |
+| 3 | **TomorrowBinder** | the family binder nobody has — a guided interview, printable and offline | planned |
+| 4 | **ContractorLens** | the contractor's bid, next to the job you described | planned |
+| 5 | **DebtLens** | the collection letter — the regulation's required contents, line by line | planned |
+| 6 | **LeaseLens** | your lease, before you sign | planned |
 | 7 | **DepositBack** | the itemized deductions, before you give up | planned |
-| 8 | **SubSweep** | your bank statement, before next month | planned |
-| 9 | **LabsPlain** | the lab panel, in plain English | planned |
-| 10 | **IEPAlly** | your child's IEP, before the meeting | planned |
-| 11 | **VisitPrep** | the doctor's visit, prepared | planned |
-| 12 | **TomorrowBinder** | the binder your family needs and nobody has | planned |
-| 13 | **MemoryBook** | your parents' stories, in their words | planned |
-| 14 | **Tribute** | the eulogy, written from real memories | planned |
-| 15 | **GrantTruth** | the grant or scholarship application, before you sign your name to it | planned |
+| 8 | **MemoryBook** | your parents' stories, in their words | planned |
+| 9 | **MedicareCallGuard** | the Medicare sales call, before you switch | planned |
+| 10 | **BillFight** | the hospital bill, before you pay | planned |
+| 11 | **ClosingDecode** | your closing numbers, before the table | planned |
+| 12 | **VisitPrep** | the doctor's visit, prepared | planned |
+| 13 | **DenialAppeal** | the insurance denial, before the deadline | planned |
+| 14 | **GrantTruth** | the grant or scholarship application, before you sign your name to it | planned |
+| 15 | **IEPAlly** | your child's IEP, before the meeting | planned |
+| 16 | **BenefitsLens** | the benefits letter, before the deadline ends coverage | planned |
+| 17 | **LabsPlain** | the lab panel, in plain English | planned |
+| 18 | **SubSweep** | your bank statement, before next month | planned |
+| 19 | **Tribute** | the eulogy, written from real memories | planned |
+| 20 | **FuneralLens** | the funeral home's price list, before you sign | planned |
+
+The table follows the build order: the emptiest lane first, the one-shot-trust kits last.
 
 ## What every kit is
 
@@ -49,7 +56,7 @@ The method comes from [career-kit](https://github.com/deghosal-2026/career-kit),
 
 ## Status
 
-Kits ship in build order, each with its charter, its fixtures, and a build journal. Shipped: [**ScamCheck v0.1.0**](https://github.com/kitshelf/scamcheck) — the jobs family end to end, its 20-fixture gauntlet recorded on four models, adversarial release gate passed. Next inside it: the rentals, banking, and marketplace families in v0.2.0, romance in v0.3.0. After that, the next kit on the shelf.
+Kits ship in build order, each with its charter, its fixtures, and a build journal. Shipped: [**ScamCheck v0.1.0**](https://github.com/kitshelf/scamcheck) — the jobs family end to end, its 20-fixture gauntlet recorded on four models, adversarial release gate passed. Next on the shelf: [**MechanicLens**](https://github.com/kitshelf/mechaniclens) — the repair-estimate decoder, in development. ScamCheck's own next step: the rentals, banking, and marketplace families in v0.2.0, romance in v0.3.0.
 
 ## License
 
