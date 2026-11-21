@@ -9,13 +9,9 @@ This is the org profile repo for [github.com/kitshelf](https://github.com/kitshe
 
 ## What the public "project list" actually is
 
-The table in `profile/README.md` is the project list. It lists **20 planned kits** in build order. It is
-not the repository list.
+The table in `profile/README.md` is the project list. It lists **20 kits** in build order. It is not the repository list.
 
-GitHub's own **Repositories** section on the org page shows only repositories that exist on GitHub. Planned
-kits have no repository until one is created. So the org page can correctly show 20 projects in the README
-while the Repositories section shows 2 repos. That is not a bug; it is the difference between "planned kit"
-and "existing repo."
+GitHub's own **Repositories** section on the org page shows only repositories that exist on GitHub. Every kit now has a public repo, so the Repositories section shows 20 kit repos plus `.github`. Planned kits are empty repos marked "coming" until their build starts. That is not a bug; it is the difference between "planned kit" and "shipped kit."
 
 ## Canonical order
 
