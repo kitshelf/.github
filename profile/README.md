@@ -15,7 +15,7 @@ Three kinds of kits, one mechanic — *read what they sent you* (decode the docu
 | # | Kit | What it reads back to you | Status |
 |---|---|---|---|
 | 1 | [**ScamCheck**](https://github.com/kitshelf/scamcheck) | the job offer, rental listing, or "bank" text — before you reply | **v0.1.0 released** |
-| 2 | [**MechanicLens**](https://github.com/kitshelf/mechaniclens) | the repair estimate, before you approve the work | **in development** |
+| 2 | [**MechanicLens**](https://github.com/kitshelf/mechaniclens) | the repair estimate, before you approve the work | **v0.1.0 released** · [PyPI](https://pypi.org/project/mechaniclens/) |
 | 3 | [**TomorrowBinder**](https://github.com/kitshelf/tomorrowbinder) | the family binder nobody has — a guided interview, printable and offline | coming |
 | 4 | [**ContractorLens**](https://github.com/kitshelf/contractorlens) | the contractor's bid, next to the job you described | coming |
 | 5 | [**DebtLens**](https://github.com/kitshelf/debtlens) | the collection letter — the regulation's required contents, line by line | coming |
@@ -56,7 +56,7 @@ The method comes from [career-kit](https://github.com/deghosal-2026/career-kit),
 
 ## Status
 
-Kits ship in build order, each with its charter, its fixtures, and a build journal. Shipped: [**ScamCheck v0.1.0**](https://github.com/kitshelf/scamcheck) — the jobs family end to end, its 20-fixture gauntlet recorded on four models, adversarial release gate passed. Next on the shelf: [**MechanicLens**](https://github.com/kitshelf/mechaniclens) — the repair-estimate decoder, scaffolded and in development. All 20 kit repos are public; planned kits are empty and marked "coming" until their build starts. ScamCheck's own next step: the rentals, banking, and marketplace families in v0.2.0, romance in v0.3.0.
+Kits ship in build order, each with its charter, its fixtures, and a build journal. Shipped: [**ScamCheck v0.1.0**](https://github.com/kitshelf/scamcheck) — the jobs family end to end, its 20-fixture gauntlet recorded on four models, adversarial release gate passed. Also shipped: [**MechanicLens v0.1.0**](https://github.com/kitshelf/mechaniclens) — the repair-estimate decoder, 32 patterns grounded in a 1.27M-record corpus, a 15-fixture gauntlet run on two hosted models, on [PyPI](https://pypi.org/project/mechaniclens/). Next on the shelf: [**TomorrowBinder**](https://github.com/kitshelf/tomorrowbinder) — the family binder nobody has. All 20 kit repos are public; planned kits are empty and marked "coming" until their build starts. ScamCheck's own next step: the rentals, banking, and marketplace families in v0.2.0, romance in v0.3.0.
 
 ## License
 
